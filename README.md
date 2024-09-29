@@ -1,4 +1,5 @@
 # Temperature and Humidity Measurement using DHT11, OLED Display, and Arduino Nano
+# [Watch the YouTube Tutorial](https://youtube.com/shorts/myEo6hK07vo)
 
 ## Overview
 This project involves measuring temperature and humidity using the DHT11 sensor, displaying the data on an OLED display, and using an Arduino Nano as the controller.
